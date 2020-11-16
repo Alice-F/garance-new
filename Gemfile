@@ -37,6 +37,7 @@ gem 'pundit'
 # FRONT
 gem 'slim-rails'
 gem 'simple_form'
+gem 'turbolinks_render'
 
 group :development, :test do  gem 'pry-byebug'
   gem 'pry-rails'
